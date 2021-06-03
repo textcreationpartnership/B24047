@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The hawkers lamentation in a dialogue between Nick and Humphrey</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24047</idno><idno type="EEBO-CITATION">99828185</idno>
+  <idno type="VID">207776</idno>
+  <idno type="EEBO-PROQUEST">2240917938</idno>
+  
+            <idno type="STC">Wing H1172A</idno>
+            <idno type="PROQUEST">99828185</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828185e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207776)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1948:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The hawkers lamentation in a dialogue between Nick and Humphrey</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for Langley Curtis,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:207776:1"/>
+            <head>THE Hawkers Lamentation IN A DIALOGUE BETWEEN Nick and Humphry.</head>
+            <sp>
+               <speaker>Nicholas</speaker>
+               <p>AH! <hi>Humphry</hi> what shall we do now? we are utterly undone, our Trade is quite spoil'd, all the News is laid down: The <hi>Mer<g ref="char:EOLhyphen"/>curys,</hi> the <hi>Intelligences,</hi> the <hi>Courants,</hi> the <hi>Loyal,</hi> and the <hi>Impartials,</hi> all's gone, Va<g ref="char:EOLhyphen"/>nished of a suddain; Prithee what dost think of it? we may now go Hang our selves.</p>
+            </sp>
+            <sp>
+               <speaker>Hump.</speaker>
+               <p>Think! I know not what to think, I'le go and get some body to write our <hi>Lamentation,</hi> or make a <hi>Balad</hi> and set it to some Lamentable Tune, and Sing it my self; Sure the People will buy it out of meer commiseration; for we have serv'd them faithfully, trudg'd through thiek and thin, in Fair and Foul Weather, Rain and Snow, brought them News of all sorts and sizes, cut an dry'd, to their Doors, we had them ready for every Party, for the <hi>Torys</hi> what would please them, for the <hi>Whiggs</hi> what would Tickle them; Loyalty, Trea<g ref="char:EOLhyphen"/>son, Truth, Lyes, Orthodox, Sedition, shuffl'd together for all Customers: well a day, and all this gone of a suddain.</p>
+            </sp>
+            <sp>
+               <speaker>Nick.</speaker>
+               <p>They never think what we Poor Men shall do, to put us by our Lawful Vo<g ref="char:EOLhyphen"/>cations, getting our Penny hardly, by the waisting of Lungs, Sucking in the Foggy Air of <hi>November:</hi> Do they intend we shall full to Picking of Purses?</p>
+            </sp>
+            <sp>
+               <speaker>Hump.</speaker>
+               <p>That we did before, but it was in a lawful way: well, I say, would there were an Act for Licencing again, then for the half Crown charge we might cry again all sorts of Lyes with Authority. Well Friend <hi>Nick,</hi> I thought not to have seen this day: The Loyal <hi>Thompson</hi> is also fallen with the rest: I thought he might have held up, I have got many a Penny by him. Nay, the <hi>Papistical</hi> Pamphlets begin to Flagg: We have now no way left but to our Prayers, I say <hi>Nick</hi> to your Prayers, that the Pope and the De<g ref="char:EOLhyphen"/>vil would put it into the Hearts of the <hi>Papists</hi> to beget another Plot; that would do our business.</p>
+            </sp>
+            <sp>
+               <speaker>Nick</speaker>
+               <p>Nay that was well thought of, we have got sweetly by the late Popish <hi>Plot,</hi> it was a most certain income to us, and well improved. It is an ill Wind that blows no body good, it is good Fish<g ref="char:EOLhyphen"/>ing in troubled Waters; but the longest day I see will have an end; who ever suf<g ref="char:EOLhyphen"/>fer'd, we got a livelyhood, and therefore since it is Interest that Sways the World, I know not why we should not Pray to have a livelyhood, for truly Knaves and Fools being the most numerous, we got sweetly by them.</p>
+            </sp>
+            <sp>
+               <speaker>Hump.</speaker>
+               <p>You say right Friend, for I never got any thing by a Wiseman in my Life; I always went empty handed from their Doors. But what say you to a <hi>Presbyterian Plot.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nick.</speaker>
+               <p>Nay any Plot in the World, tho it were but a Plot of the Apprentices, or of the Butchers to burn the <hi>Pope,</hi> there would be Money got by it, the
+<pb n="2" facs="tcp:207776:2"/> very name of a Plot would be a Revenue to us, let it be true or false.</p>
+            </sp>
+            <sp>
+               <speaker>Hump.</speaker>
+               <p>We got well enough by the <hi>Presbyterian</hi> Plot, let me tell you, <hi>pro</hi> and <hi>Con,</hi> either side brought in the Penny. But they say they will not suffer the Pope to be Burnt any more.</p>
+            </sp>
+            <sp>
+               <speaker>Nick.</speaker>
+               <p>Well if they but Hang him in Effigies, we shall have some three half penny Poet or other make a Coppy of Verses, or a Dialogue of it, and we shall get by it.</p>
+            </sp>
+            <sp>
+               <speaker>Hump.</speaker>
+               <p>What think you of Inventing one among our selves of the great <hi>Turk,</hi> and the <hi>French</hi> King, they say they have a very great Plot in Hand against <hi>Chri<g ref="char:EOLhyphen"/>stendome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nick.</speaker>
+               <p>I like it well, provided we could bring this Plot into <hi>England;</hi> can't we get two Friends to send to some of your out-Lyers to send us this Plot out of <hi>Holland,</hi> there would be Fools enough to believe and buy it, and we should be sure to get Money enough by it.</p>
+            </sp>
+            <sp>
+               <speaker>Hump.</speaker>
+               <p>Why truly Friend <hi>Nicholas,</hi> I see you understand whats what, and you talke like many of our Coffee-house States<g ref="char:EOLhyphen"/>men; any thing I say for an honest live<g ref="char:EOLhyphen"/>ly-hood. Are not you acquainted with some Familiar?</p>
+            </sp>
+            <sp>
+               <speaker>Nick.</speaker>
+               <p>Familiar! Bless us! What mean you: I have no Trade or Commerce with the Devil, I would not willingly give my Soul to <hi>Belzebub</hi> neither, nor go a Hauk<g ref="char:EOLhyphen"/>ing after his Imps to get a Penny: I have some conscience Brother.</p>
+            </sp>
+            <sp>
+               <speaker>Hump.</speaker>
+               <p>You mistake me, I mean ac<g ref="char:EOLhyphen"/>quainted with those that write <hi>Dialogues</hi> between the <hi>Pope</hi> and the <hi>Devil,</hi> and were so well acquainted with the Language of Hell; why all their words smelt of <hi>Brim<g ref="char:EOLhyphen"/>stone,</hi> and they were as Familiar with <hi>Lu<g ref="char:EOLhyphen"/>cifer,</hi> as if they had-been his Secretaries, for a matter of Eighteen Pence, one of these Familiars would write us a <hi>Dialogue</hi> and discover all the Intreagues of the <hi>Cabal</hi> both of <hi>Hell</hi> and <hi>Rome,</hi> and raise up the <hi>Ghost</hi> of some new Hellish Plot that would get us Mony.</p>
+            </sp>
+            <sp>
+               <speaker>Nick.</speaker>
+               <p>If that be it you mean, I am for you, I know a certain Ragamuffin-that lives by knawing of Mouldy <hi>Cheese</hi> like a <hi>Ratt,</hi> and he may be dealt with on that occa<g ref="char:EOLhyphen"/>sion.</p>
+            </sp>
+            <sp>
+               <speaker>Hump.</speaker>
+               <p>And he shall be our great <hi>A<g ref="char:EOLhyphen"/>pollo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nick.</speaker>
+               <p>But Friend <hi>Humphry,</hi> may I ask you without offence, what Religon you are of.</p>
+            </sp>
+            <sp>
+               <speaker>Hump.</speaker>
+               <p>Religion! I am of the Religion that most Men are of, the Religion that's uppermost: Interest and Gain; do'st not thou see it plainly the Religion of wiser Men than we are? what do'st talke so Ri<g ref="char:EOLhyphen"/>diculously of Conscience or Religion; is it for us to busie our selves with those matters? they are beyond our comprehen<g ref="char:EOLhyphen"/>sion: Let us doe as others doe, be of all Religions, of every Faction, and really of none, for when gain fails, there lies both Religion and Faction too in the Dirt, they shrink their Necks out of the Yoak, and seek to save their Bacon. What's be<g ref="char:EOLhyphen"/>come of the Crouds that use to fill the Coffee-houses? our Trade began to dwin<g ref="char:EOLhyphen"/>dle before this great downfall, it was but a bad <hi>Omen.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nick.</speaker>
+               <p>You speak profoundly, see what it is to converse with Men. Well, I ne<g ref="char:EOLhyphen"/>ver was of any Faction in my Life, of no Party, Church or Religion, but I knew my Customers: Here Sir said I, here is a most excellent <hi>Tory</hi> Song, a most Rare <hi>Dialogue</hi> between two Parters, of the little Man you wot of: Here is a spick and span New Coppy of Verses Hot out of <hi>Thompsons</hi> Press, concerning the <hi>Whiggs</hi> Plot: Here is a Pipeing Hot peace of <hi>Tory</hi> Loyalty; and here is a secret Pamphlet with a Vizard on't, wrote by a <hi>Jesuite:</hi> Then to another Customer, out of my o<g ref="char:EOLhyphen"/>ther Budget, Oh Sir, here is an Impartial Intelligence, great News of a New Plot at <hi>Rome:</hi> Here is a no <hi>Presbyterian</hi> Plot Printed in <hi>Cornhil:</hi> Here is <hi>Dick J—</hi> News; here is a Pacquet, and a witty <hi>Courant.</hi> Here is my Lord — Vin<g ref="char:EOLhyphen"/>dication, the Noble Peers Speech. Here is a little Pamphlet full of Loyalty and Treason, keep that secret, it comes by the Penny-Post, come Sir quickly, I am in hast, my Fellows will be before me and spoil my Market. O. <hi>Hump.</hi> These were Golden days, but they are gone, and nothing now must be fold but Loyal<g ref="char:EOLhyphen"/>ty.</p>
+            </sp>
+            <sp>
+               <speaker>Hump.</speaker>
+               <p>Pray therefore good <hi>Nick</hi> for another Plot, for we shall starve by Truth and Loyalty. Alas! the <hi>L— Gazet</hi> I am afraid won't find us <hi>Bread</hi> and <hi>Cheese.</hi> I say we have got more by the <hi>Pope</hi> and the <hi>Devil,</hi> than ever we shall get by all the <hi>Loyalty</hi> in <hi>Christendome,</hi> and so fare<g ref="char:EOLhyphen"/>well.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Langley Curtis,</hi> 168<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
